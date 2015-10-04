@@ -16,7 +16,7 @@
  * limitations under the License.
  */
 
-package pw.phylame.tools;
+package pw.phylame.util;
 
 import java.io.IOException;
 import java.io.InputStream;

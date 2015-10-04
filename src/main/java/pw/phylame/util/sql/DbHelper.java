@@ -16,7 +16,7 @@
  * limitations under the License.
  */
 
-package pw.phylame.tools.sql;
+package pw.phylame.util.sql;
 
 import java.sql.ResultSet;
 import java.sql.Statement;

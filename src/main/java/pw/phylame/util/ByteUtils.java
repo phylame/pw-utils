@@ -16,7 +16,7 @@
  * limitations under the License.
  */
 
-package pw.phylame.tools;
+package pw.phylame.util;
 
 /**
  * Utility class for byte operations.

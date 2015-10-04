@@ -16,7 +16,7 @@
  * limitations under the License.
  */
 
-package pw.phylame.tools.sql;
+package pw.phylame.util.sql;
 
 /**
  * Exception when failed to switch page.
